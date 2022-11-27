@@ -1,0 +1,117 @@
+  .container{
+    border: 10px solid black;
+    margin: auto;
+    max-width: 500px;
+    min-width: 300px; 
+    padding: 5px;
+    border-radius: 5%;
+    background-color: rgba(64, 76, 203, 0.2);
+  }
+  h1 {
+    font-family: arial;
+    text-align: center; 
+    margin: auto;
+    position: relative;
+    max-width: 500px;
+    min-width: 300px;
+    text-decoration-line: underline;
+    padding-bottom: 5px;
+  }
+  #description {
+    font-family: tahoma;
+    margin: auto;
+    min-width: 300px;
+    max-width: 500px; 
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+  }
+  #survey-form{
+    padding-top: 10px;
+    width: 80vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    height: auto;
+    padding-bottom: 20px;
+    
+  }
+  .income, .children{
+    display: inline-block;
+  }
+  .income{
+    margin: 2px 46px 2px 0px
+  }
+  .children{
+    margin: 2px 5px 2px 0px;
+  }
+  
+  .incomeDD{
+    width: 150px;
+  }
+  .childrenDD{
+    width: 149px;
+    
+  }
+  label {
+    display: block;
+  }
+  button[type="submit"]{
+    display: block;
+    color: white;
+    width: 100%;
+    font-size: 16px;
+    min-width: 300px;
+    background-color: black;
+    height: 40px;
+    font-weight: bold;
+  }
+  fieldset {
+    margin-bottom: 5px;
+  }
+  textarea {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    min-height: 4em;
+    font-size: 16px;
+    
+  }
+  #name, #email, #number, .childrenDD, .incomeDD{
+    border: 2px groove black;
+  }
+  #name{
+  width: 50%;
+  margin-left: 48px;
+  }
+  #email{
+  width: 50%;
+  margin-left: 78px;
+  margin-top: 4px;
+  
+  }
+  #number{
+  width: 13%;
+  margin-top: 4px;
+  }
+  #submit:hover{
+    background-color:ghostwhite;
+    color: black;
+  }
+  .ethnicity input{
+  margin-right: 2px;
+  }
+   #exceeds input{
+  margin-right: 7px;
+   }
+   #fails input{
+     margin-right: 7px;
+   }
+   form strong{
+     margin-left: 5px;
+     font-size: 20px;
+   }
+   .exceedsTitle, .failsTitle, .ethnicityTitle{
+     margin-bottom: 5px;
+   }
+  
