@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeffdg1986/survey-form/static/css/main.da060565.css",
+    "main.js": "/jeffdg1986/survey-form/static/js/main.96429e53.js",
+    "static/js/787.237f04d6.chunk.js": "/jeffdg1986/survey-form/static/js/787.237f04d6.chunk.js",
+    "index.html": "/jeffdg1986/survey-form/index.html",
+    "main.da060565.css.map": "/jeffdg1986/survey-form/static/css/main.da060565.css.map",
+    "main.96429e53.js.map": "/jeffdg1986/survey-form/static/js/main.96429e53.js.map",
+    "787.237f04d6.chunk.js.map": "/jeffdg1986/survey-form/static/js/787.237f04d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da060565.css",
+    "static/js/main.96429e53.js"
+  ]
+}
